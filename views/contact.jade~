@@ -1,0 +1,15 @@
+extends layout
+ 
+block content
+  h1 Contact Me
+  
+  section.css-table
+    section.two-column
+      section.cell
+        h3 Contact Number
+        p 9535689636<br/>9036330386
+      section.cell
+        h3 Contact Me on social Networking sites
+        p Ritesh Kumar@Facebook.com <br/>Ritesh Kumar@Google+.com
+  
+      

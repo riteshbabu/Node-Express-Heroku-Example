@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  h1 I am currently working as Software Developer at Bookmyshow.I did MCA from Bangalore University. My hobby is listening music,collecting IT/Computer Science related informations,helping others,playing cricket. I believe in hard working as well as smart working.I like to learn new things from others. 
+  

@@ -8,7 +8,7 @@ Click Here to see the Demo[1]
 
 
 
-[1]: http://http://ancient-anchorage-2958.herokuapp.com/
+[1]: http://ancient-anchorage-2958.herokuapp.com/
 [2]: http://shapeshed.com/images/articles/express_example.jpg
 [3]: http://heroku.com
 [4]: http://expressjs.com/
